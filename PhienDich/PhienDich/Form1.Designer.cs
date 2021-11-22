@@ -31,6 +31,7 @@ namespace PhienDich
         {
             this.panel_main = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.panel_main.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -51,17 +52,28 @@ namespace PhienDich
             this.label1.TabIndex = 0;
             this.label1.Text = "Dũng đẹp trai ta";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(538, 307);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(46, 17);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "label2";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(902, 533);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.panel_main);
             this.Name = "Form1";
             this.Text = "PhienDich";
             this.panel_main.ResumeLayout(false);
             this.panel_main.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -69,6 +81,7 @@ namespace PhienDich
 
         private System.Windows.Forms.Panel panel_main;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
