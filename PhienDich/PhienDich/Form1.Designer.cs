@@ -31,32 +31,46 @@ namespace PhienDich
         {
             this.panel_main = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel_main.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel_main
             // 
             this.panel_main.Controls.Add(this.label1);
-            this.panel_main.Location = new System.Drawing.Point(13, 13);
+            this.panel_main.Location = new System.Drawing.Point(10, 11);
+            this.panel_main.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel_main.Name = "panel_main";
-            this.panel_main.Size = new System.Drawing.Size(443, 325);
+            this.panel_main.Size = new System.Drawing.Size(332, 264);
             this.panel_main.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(82, 84);
+            this.label1.Location = new System.Drawing.Point(62, 68);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(110, 17);
+            this.label1.Size = new System.Drawing.Size(84, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Dũng đẹp trai ta";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(424, 105);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(178, 127);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(902, 533);
+            this.ClientSize = new System.Drawing.Size(676, 433);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.panel_main);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "PhienDich";
             this.panel_main.ResumeLayout(false);
@@ -69,6 +83,7 @@ namespace PhienDich
 
         private System.Windows.Forms.Panel panel_main;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
     }
 }
 
