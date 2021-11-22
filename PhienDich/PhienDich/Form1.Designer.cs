@@ -30,14 +30,26 @@ namespace PhienDich
         private void InitializeComponent()
         {
             this.panel_main = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel_main.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel_main
             // 
+            this.panel_main.Controls.Add(this.label1);
             this.panel_main.Location = new System.Drawing.Point(13, 13);
             this.panel_main.Name = "panel_main";
-            this.panel_main.Size = new System.Drawing.Size(200, 100);
+            this.panel_main.Size = new System.Drawing.Size(443, 325);
             this.panel_main.TabIndex = 0;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(82, 84);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(110, 17);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Dũng đẹp trai ta";
             // 
             // Form1
             // 
@@ -47,6 +59,8 @@ namespace PhienDich
             this.Controls.Add(this.panel_main);
             this.Name = "Form1";
             this.Text = "PhienDich";
+            this.panel_main.ResumeLayout(false);
+            this.panel_main.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -54,6 +68,7 @@ namespace PhienDich
         #endregion
 
         private System.Windows.Forms.Panel panel_main;
+        private System.Windows.Forms.Label label1;
     }
 }
 
