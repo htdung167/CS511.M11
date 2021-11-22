@@ -1,0 +1,10 @@
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\PhienDich.exe.config
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\PhienDich.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\PhienDich.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.AssemblyReference.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.Properties.Resources.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.GenerateResource.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.Form1.resources
