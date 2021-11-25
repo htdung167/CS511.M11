@@ -10,7 +10,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 using System.Windows.Forms;
-
+using System.Data.SQLite;
+using Newtonsoft.Json;
+using DarrenLee.Translator;
 
 namespace Test_Dung
 {
@@ -19,32 +21,68 @@ namespace Test_Dung
         public Form1()
         {
             InitializeComponent();
+            comboBox1.SelectedIndex = 0;
         }
 
-        public string TranslateText(string input)
-        {
-            string url = String.Format
-            ("https://translate.googleapis.com/translate_a/single?client=gtx&sl={0}&tl={1}&dt=t&q={2}",
-             "vi", "en", Uri.EscapeUriString(input));
-            HttpClient httpClient = new HttpClient();
-            string result = httpClient.GetStringAsync(url).Result;
-            var jsonData = new JavaScriptSerializer().Deserialize<List<dynamic>>(result);
-            var translationItems = jsonData[0];
-            string translation = "";
-            foreach (object item in translationItems)
-            {
-                IEnumerable translationLineObject = item as IEnumerable;
-                IEnumerator translationLineString = translationLineObject.GetEnumerator();
-                translationLineString.MoveNext();
-                translation += string.Format(" {0}", Convert.ToString(translationLineString.Current));
-            }
-            if (translation.Length > 1) { translation = translation.Substring(1); };
-            return translation;
-        }
 
         private void but_dich_Click(object sender, EventArgs e)
+        {   
+            if(choosen==2)
+            {
+                rtxt_dich.Text = Translator.Translate(rtxt_nguon.Text, "en", "vi"); //(text, nguồn, đích)
+            }
+            if (choosen == 3)
+            {
+                rtxt_dich.Text=Translator.Translate(rtxt_nguon.Text, "vi", "en");
+            }
+            if (choosen==1 || choosen==0)
+            {
+                //connect object
+                SQLiteConnection con = new SQLiteConnection(@"Data Source=C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\Data\TuDien.db");
+                con.Open();
+                //command object
+                if(rtxt_nguon.Text=="")
+                {
+                    rtxt_dich.Text = "<Không được để trống>";
+                }
+                else
+                {
+                    string query = "";
+                    if (choosen == 0)
+                        query = "SELECT * FROM AnhViet WHERE word='" + rtxt_nguon.Text.Trim().ToLower() +  "'";
+                    else
+                        query = "SELECT * FROM VietAnh WHERE word='" + rtxt_nguon.Text.Trim().ToLower() + "'";
+                    SQLiteCommand cmd = new SQLiteCommand(query, con);
+                    SQLiteDataAdapter adapter = new SQLiteDataAdapter(cmd);
+                    DataTable ds = new DataTable();
+                    adapter.Fill(ds);
+                    try
+                    {
+                        if (choosen == 0)
+                            rtxt_dich.Text = "Phát âm: " + ds.Rows[0][2].ToString() + "\n" + ds.Rows[0][1].ToString();
+                        else
+                            rtxt_dich.Text = ds.Rows[0][1].ToString();
+                    }
+                    catch
+                    {
+                        rtxt_dich.Text = "<không có>";
+                    }
+                    dataGridView1.DataSource = ds;
+                }
+                con.Close();
+                //adapter
+                 
+                //get data
+            }
+
+        }
+
+        int choosen = 0;
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            rtxt_dich.Text = TranslateText(rtxt_dich.Text);
+            ComboBox cb = sender as ComboBox;
+            choosen = cb.SelectedIndex;
+            label2.Text = choosen.ToString();
         }
     }
 }

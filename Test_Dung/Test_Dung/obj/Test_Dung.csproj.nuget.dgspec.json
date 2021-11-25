@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hoang Tien Dung\\Documents\\Ky1_Nam3\\LapTrinhC#\\DoAn\\CS511.M11\\Test_Dung\\Test_Dung\\Test_Dung.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hoang Tien Dung\\Documents\\Ky1_Nam3\\LapTrinhC#\\DoAn\\CS511.M11\\Test_Dung\\Test_Dung\\Test_Dung.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hoang Tien Dung\\Documents\\Ky1_Nam3\\LapTrinhC#\\DoAn\\CS511.M11\\Test_Dung\\Test_Dung\\Test_Dung.csproj",
+        "projectName": "Test_Dung",
+        "projectPath": "C:\\Users\\Hoang Tien Dung\\Documents\\Ky1_Nam3\\LapTrinhC#\\DoAn\\CS511.M11\\Test_Dung\\Test_Dung\\Test_Dung.csproj",
+        "packagesPath": "C:\\Users\\Hoang Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hoang Tien Dung\\Documents\\Ky1_Nam3\\LapTrinhC#\\DoAn\\CS511.M11\\Test_Dung\\Test_Dung\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Hoang Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
