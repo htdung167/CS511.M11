@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\PhienDich",
-    "\\PhienDich\\PhienDich"
+    "\\PhienDich\\PhienDich",
+    "\\Test_Dung",
+    "\\Test_Dung\\Test_Dung"
   ],
-  "SelectedNode": "\\PhienDich\\PhienDich\\Form1.cs",
+  "SelectedNode": "\\Test_Dung\\Test_Dung\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
