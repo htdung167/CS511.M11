@@ -1,0 +1,37 @@
+D:\CS511\Đồ Án\DoAn511\bin\Debug\DoAn511.exe.config
+D:\CS511\Đồ Án\DoAn511\bin\Debug\DoAn511.exe
+D:\CS511\Đồ Án\DoAn511\bin\Debug\DoAn511.pdb
+D:\CS511\Đồ Án\DoAn511\bin\Debug\Guna.UI2.dll
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.Form1.resources
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.Properties.Resources.resources
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.csproj.GenerateResource.cache
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.csproj.CoreCompileInputs.cache
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.csproj.CopyComplete
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.exe
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.pdb
+D:\CS511\Đồ Án\DoAn511\bin\Debug\FontAwesome.Sharp.dll
+D:\CS511\Đồ Án\DoAn511\obj\Debug\DoAn511.csproj.AssemblyReference.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\DoAn511.exe.config
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\DoAn511.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\DoAn511.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\DarrenLee.Translator.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\EntityFramework.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\EntityFramework.xml
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.csproj.AssemblyReference.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.Form1.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.Properties.Resources.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.csproj.GenerateResource.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.csproj.CopyComplete
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\DoAn511\obj\Debug\DoAn511.pdb

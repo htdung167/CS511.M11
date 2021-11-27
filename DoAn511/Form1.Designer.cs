@@ -40,8 +40,10 @@ namespace DoAn511
             this.elip_btn3 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.elip_btn4 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.elip_btnAV = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.btn_AV = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.elip_btnVA = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.btn_VA = new Guna.UI2.WinForms.Guna2Button();
             this.tbox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.elip_box1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.tbox2 = new Guna.UI2.WinForms.Guna2TextBox();
@@ -50,8 +52,6 @@ namespace DoAn511
             this.elip_btnTrans = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.pnl_top = new System.Windows.Forms.Panel();
             this.btn_Close = new Guna.UI2.WinForms.Guna2CircleButton();
-            this.btn_AV = new Guna.UI2.WinForms.Guna2Button();
-            this.btn_VA = new Guna.UI2.WinForms.Guna2Button();
             this.pnl_top.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -72,10 +72,11 @@ namespace DoAn511
             this.btn1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btn1.ForeColor = System.Drawing.Color.White;
             this.btn1.HoverState.Parent = this.btn1;
-            this.btn1.Location = new System.Drawing.Point(10, 50);
+            this.btn1.Location = new System.Drawing.Point(13, 62);
+            this.btn1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn1.Name = "btn1";
             this.btn1.ShadowDecoration.Parent = this.btn1;
-            this.btn1.Size = new System.Drawing.Size(218, 111);
+            this.btn1.Size = new System.Drawing.Size(291, 137);
             this.btn1.TabIndex = 0;
             this.btn1.Text = "guna2Button1";
             // 
@@ -96,10 +97,11 @@ namespace DoAn511
             this.btn2.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btn2.ForeColor = System.Drawing.Color.White;
             this.btn2.HoverState.Parent = this.btn2;
-            this.btn2.Location = new System.Drawing.Point(342, 50);
+            this.btn2.Location = new System.Drawing.Point(456, 62);
+            this.btn2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn2.Name = "btn2";
             this.btn2.ShadowDecoration.Parent = this.btn2;
-            this.btn2.Size = new System.Drawing.Size(218, 111);
+            this.btn2.Size = new System.Drawing.Size(291, 137);
             this.btn2.TabIndex = 2;
             this.btn2.Text = "guna2Button1";
             // 
@@ -115,10 +117,11 @@ namespace DoAn511
             this.btn3.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btn3.ForeColor = System.Drawing.Color.White;
             this.btn3.HoverState.Parent = this.btn3;
-            this.btn3.Location = new System.Drawing.Point(670, 50);
+            this.btn3.Location = new System.Drawing.Point(893, 62);
+            this.btn3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn3.Name = "btn3";
             this.btn3.ShadowDecoration.Parent = this.btn3;
-            this.btn3.Size = new System.Drawing.Size(218, 111);
+            this.btn3.Size = new System.Drawing.Size(291, 137);
             this.btn3.TabIndex = 3;
             this.btn3.Text = "guna2Button2";
             // 
@@ -134,10 +137,11 @@ namespace DoAn511
             this.btn4.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btn4.ForeColor = System.Drawing.Color.White;
             this.btn4.HoverState.Parent = this.btn4;
-            this.btn4.Location = new System.Drawing.Point(1004, 50);
+            this.btn4.Location = new System.Drawing.Point(1339, 62);
+            this.btn4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn4.Name = "btn4";
             this.btn4.ShadowDecoration.Parent = this.btn4;
-            this.btn4.Size = new System.Drawing.Size(218, 111);
+            this.btn4.Size = new System.Drawing.Size(291, 137);
             this.btn4.TabIndex = 4;
             this.btn4.Text = "guna2Button3";
             // 
@@ -161,19 +165,62 @@ namespace DoAn511
             this.elip_btnAV.BorderRadius = 50;
             this.elip_btnAV.TargetControl = this.btn_AV;
             // 
+            // btn_AV
+            // 
+            this.btn_AV.CheckedState.Parent = this.btn_AV;
+            this.btn_AV.CustomImages.Parent = this.btn_AV;
+            this.btn_AV.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_AV.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_AV.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_AV.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_AV.DisabledState.Parent = this.btn_AV;
+            this.btn_AV.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_AV.ForeColor = System.Drawing.Color.White;
+            this.btn_AV.HoverState.Parent = this.btn_AV;
+            this.btn_AV.Location = new System.Drawing.Point(41, 258);
+            this.btn_AV.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_AV.Name = "btn_AV";
+            this.btn_AV.ShadowDecoration.Parent = this.btn_AV;
+            this.btn_AV.Size = new System.Drawing.Size(288, 69);
+            this.btn_AV.TabIndex = 11;
+            this.btn_AV.Text = "English - Vietnamese";
+            this.btn_AV.Click += new System.EventHandler(this.btn_AV_Click);
+            // 
             // guna2Panel1
             // 
             this.guna2Panel1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.guna2Panel1.Location = new System.Drawing.Point(0, 42);
+            this.guna2Panel1.Location = new System.Drawing.Point(0, 52);
+            this.guna2Panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.ShadowDecoration.Parent = this.guna2Panel1;
-            this.guna2Panel1.Size = new System.Drawing.Size(1232, 2);
+            this.guna2Panel1.Size = new System.Drawing.Size(1643, 2);
             this.guna2Panel1.TabIndex = 5;
             // 
             // elip_btnVA
             // 
             this.elip_btnVA.BorderRadius = 50;
             this.elip_btnVA.TargetControl = this.btn_VA;
+            // 
+            // btn_VA
+            // 
+            this.btn_VA.CheckedState.Parent = this.btn_VA;
+            this.btn_VA.CustomImages.Parent = this.btn_VA;
+            this.btn_VA.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn_VA.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btn_VA.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btn_VA.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btn_VA.DisabledState.Parent = this.btn_VA;
+            this.btn_VA.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_VA.ForeColor = System.Drawing.Color.White;
+            this.btn_VA.HoverState.Parent = this.btn_VA;
+            this.btn_VA.Location = new System.Drawing.Point(337, 258);
+            this.btn_VA.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_VA.Name = "btn_VA";
+            this.btn_VA.ShadowDecoration.Parent = this.btn_VA;
+            this.btn_VA.Size = new System.Drawing.Size(288, 69);
+            this.btn_VA.TabIndex = 12;
+            this.btn_VA.Text = "Vietnamese - English";
+            this.btn_VA.Click += new System.EventHandler(this.btn_VA_Click);
             // 
             // tbox1
             // 
@@ -195,14 +242,15 @@ namespace DoAn511
             this.tbox1.ForeColor = System.Drawing.Color.Black;
             this.tbox1.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbox1.HoverState.Parent = this.tbox1;
-            this.tbox1.Location = new System.Drawing.Point(10, 272);
+            this.tbox1.Location = new System.Drawing.Point(13, 335);
+            this.tbox1.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.tbox1.Multiline = true;
             this.tbox1.Name = "tbox1";
             this.tbox1.PasswordChar = '\0';
             this.tbox1.PlaceholderText = "";
             this.tbox1.SelectedText = "";
             this.tbox1.ShadowDecoration.Parent = this.tbox1;
-            this.tbox1.Size = new System.Drawing.Size(1210, 177);
+            this.tbox1.Size = new System.Drawing.Size(1613, 218);
             this.tbox1.TabIndex = 7;
             // 
             // elip_box1
@@ -228,14 +276,15 @@ namespace DoAn511
             this.tbox2.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbox2.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.tbox2.HoverState.Parent = this.tbox2;
-            this.tbox2.Location = new System.Drawing.Point(12, 455);
+            this.tbox2.Location = new System.Drawing.Point(16, 560);
+            this.tbox2.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.tbox2.Multiline = true;
             this.tbox2.Name = "tbox2";
             this.tbox2.PasswordChar = '\0';
             this.tbox2.PlaceholderText = "";
             this.tbox2.SelectedText = "";
             this.tbox2.ShadowDecoration.Parent = this.tbox2;
-            this.tbox2.Size = new System.Drawing.Size(1210, 177);
+            this.tbox2.Size = new System.Drawing.Size(1613, 218);
             this.tbox2.TabIndex = 8;
             // 
             // elip_box2
@@ -255,12 +304,14 @@ namespace DoAn511
             this.btnTrans.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTrans.ForeColor = System.Drawing.Color.White;
             this.btnTrans.HoverState.Parent = this.btnTrans;
-            this.btnTrans.Location = new System.Drawing.Point(1034, 210);
+            this.btnTrans.Location = new System.Drawing.Point(1379, 258);
+            this.btnTrans.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnTrans.Name = "btnTrans";
             this.btnTrans.ShadowDecoration.Parent = this.btnTrans;
-            this.btnTrans.Size = new System.Drawing.Size(170, 56);
+            this.btnTrans.Size = new System.Drawing.Size(227, 69);
             this.btnTrans.TabIndex = 9;
             this.btnTrans.Text = "Translate";
+            this.btnTrans.Click += new System.EventHandler(this.btnTrans_Click);
             // 
             // elip_btnTrans
             // 
@@ -272,8 +323,9 @@ namespace DoAn511
             this.pnl_top.BackColor = System.Drawing.Color.LightSlateGray;
             this.pnl_top.Controls.Add(this.btn_Close);
             this.pnl_top.Location = new System.Drawing.Point(0, -2);
+            this.pnl_top.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pnl_top.Name = "pnl_top";
-            this.pnl_top.Size = new System.Drawing.Size(1231, 44);
+            this.pnl_top.Size = new System.Drawing.Size(1641, 54);
             this.pnl_top.TabIndex = 10;
             // 
             // btn_Close
@@ -289,58 +341,21 @@ namespace DoAn511
             this.btn_Close.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.btn_Close.ForeColor = System.Drawing.Color.White;
             this.btn_Close.HoverState.Parent = this.btn_Close;
-            this.btn_Close.Location = new System.Drawing.Point(1185, 6);
+            this.btn_Close.Location = new System.Drawing.Point(1580, 7);
+            this.btn_Close.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Close.Name = "btn_Close";
             this.btn_Close.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.btn_Close.ShadowDecoration.Parent = this.btn_Close;
-            this.btn_Close.Size = new System.Drawing.Size(35, 35);
+            this.btn_Close.Size = new System.Drawing.Size(47, 43);
             this.btn_Close.TabIndex = 7;
             this.btn_Close.Click += new System.EventHandler(this.btn_Close_Click);
             // 
-            // btn_AV
-            // 
-            this.btn_AV.CheckedState.Parent = this.btn_AV;
-            this.btn_AV.CustomImages.Parent = this.btn_AV;
-            this.btn_AV.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_AV.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_AV.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_AV.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_AV.DisabledState.Parent = this.btn_AV;
-            this.btn_AV.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_AV.ForeColor = System.Drawing.Color.White;
-            this.btn_AV.HoverState.Parent = this.btn_AV;
-            this.btn_AV.Location = new System.Drawing.Point(31, 210);
-            this.btn_AV.Name = "btn_AV";
-            this.btn_AV.ShadowDecoration.Parent = this.btn_AV;
-            this.btn_AV.Size = new System.Drawing.Size(216, 56);
-            this.btn_AV.TabIndex = 11;
-            this.btn_AV.Text = "English - Vietnamese";
-            // 
-            // btn_VA
-            // 
-            this.btn_VA.CheckedState.Parent = this.btn_VA;
-            this.btn_VA.CustomImages.Parent = this.btn_VA;
-            this.btn_VA.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btn_VA.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btn_VA.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btn_VA.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btn_VA.DisabledState.Parent = this.btn_VA;
-            this.btn_VA.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_VA.ForeColor = System.Drawing.Color.White;
-            this.btn_VA.HoverState.Parent = this.btn_VA;
-            this.btn_VA.Location = new System.Drawing.Point(253, 210);
-            this.btn_VA.Name = "btn_VA";
-            this.btn_VA.ShadowDecoration.Parent = this.btn_VA;
-            this.btn_VA.Size = new System.Drawing.Size(216, 56);
-            this.btn_VA.TabIndex = 12;
-            this.btn_VA.Text = "Vietnamese - English";
-            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.SlateGray;
-            this.ClientSize = new System.Drawing.Size(1232, 644);
+            this.ClientSize = new System.Drawing.Size(1643, 793);
             this.Controls.Add(this.btn_VA);
             this.Controls.Add(this.btn_AV);
             this.Controls.Add(this.pnl_top);
@@ -353,6 +368,7 @@ namespace DoAn511
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
