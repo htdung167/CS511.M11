@@ -18,3 +18,110 @@ C:\Users\Hoang Tien Dung\Desktop\test\PhienDich\PhienDich\obj\Debug\PhienDich.cs
 C:\Users\Hoang Tien Dung\Desktop\test\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
 C:\Users\Hoang Tien Dung\Desktop\test\PhienDich\PhienDich\obj\Debug\PhienDich.exe
 C:\Users\Hoang Tien Dung\Desktop\test\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\EntityFramework.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\DarrenLee.Translator.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\PhienDich.exe.config
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\PhienDich.pdb
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\EntityFramework.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\Guna.UI2.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\Newtonsoft.Json.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.Linq.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\bin\Debug\DarrenLee.Translator.dll
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.AssemblyReference.cache
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.Form1.resources
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.Properties.Resources.resources
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.GenerateResource.cache
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CopyComplete
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\PhienDich.exe.config
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\PhienDich.pdb
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\EntityFramework.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\Guna.UI2.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\Newtonsoft.Json.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.Linq.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.Form1.resources
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.Properties.Resources.resources
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.GenerateResource.cache
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CopyComplete
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.ItemSearch.resources
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.AssemblyReference.cache
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\bin\Debug\FontAwesome.Sharp.dll
+D:\CS511\Đồ Án\PhienDich _2\PhienDich\PhienDich\obj\Debug\PhienDich.AddFolder.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.AddFolder.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\obj\Debug\PhienDich.ItemSearch.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\x86\tesseract41.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\x64\tesseract41.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\CS511.M11\PhienDich\PhienDich\bin\Debug\Tesseract.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\x86\leptonica-1.80.0.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\x86\tesseract41.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\x64\leptonica-1.80.0.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\x64\tesseract41.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\PhienDich.exe.config
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\PhienDich.pdb
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\EntityFramework.SqlServer.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\EntityFramework.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\FontAwesome.Sharp.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\Guna.UI2.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\Newtonsoft.Json.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.EF6.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.Linq.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\bin\Debug\Tesseract.dll
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.AssemblyReference.cache
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.AddFolder.resources
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.Form1.resources
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.ItemSearch.resources
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.Properties.Resources.resources
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.GenerateResource.cache
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CopyComplete
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.exe
+D:\CS511\Đồ Án\PhienDich_7\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\x86\tesseract41.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\x64\tesseract41.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\PhienDich.exe.config
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\PhienDich.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\PhienDich.pdb
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\EntityFramework.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\Guna.UI2.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\bin\Debug\Tesseract.dll
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.AssemblyReference.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.AddFolder.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.Form1.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.ItemSearch.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.Properties.Resources.resources
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.GenerateResource.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.exe
+C:\Users\Hoang Tien Dung\Documents\Ky1_Nam3\LapTrinhC#\DoAn\PhienDich\PhienDich\obj\Debug\PhienDich.pdb
